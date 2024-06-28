@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christianfreund-rldatix
-- 👀 I’m interested in software
+- 👀 I’m interested in software and technical architecture
 - 🌱 I’m currently learning and onboarding, e.g. lucidcharts, documentation structures
 - 💞️ I’m looking to collaborate on RLDatix architecture development
 - 📫 How to reach me: Internal Teams or Email
